@@ -62,7 +62,7 @@ I asked the agent to make the sand material more interesting and here is what i 
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/new_sand-variation.jpg)
 
 here are the shader nodes it created:
-![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/sand-shader-nodes.jpg)
+![image alt]([https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/sand-shader-nodes.jpg](https://github.com/HoriaBersec/Proiect-MDS/blob/7d4bccfebefdbd2ce2723b197cc6c372cdb7904a/screenshots/sand_shader_nodes.jpg))
 
 After that I just told it to make the the sand material effect more pronuced and develop the stone materials the way it thinks it should:
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/latest_sand-variation.jpg)
