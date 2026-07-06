@@ -66,4 +66,3 @@ Known limitations
 The UI freezes while an agent is running (synchronous API call).
 No mesh modeling agent — a primitive-based "Builder" agent was tried early on and cut, results were weak for the effort.
 Materials don't do bump/normal maps yet, only color + metallic + roughness.
-Needs an internet connection and a valid API key with credits.
