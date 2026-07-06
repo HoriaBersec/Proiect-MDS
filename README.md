@@ -50,8 +50,20 @@ Materials don't do bump/normal maps yet, only color + metallic + roughness.
 Needs an internet connection and a valid API key with credits.
 
 
-Here is a small test scene:
+
+
+Here is a small test scene I made, it's just some rocks in a 'desert' and I asked the material agent to assign 3 different rock materials randomly among the rocks in the scene:
 
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/basic_scene_setup.jpg)
 
+Now I won't show what the scene manager agent does, because all you could do in this scene with it would be to delete all the rocks(wow!) and I dont think that needs any showcasing.
+
+I asked the agent to make the sand material more interesting and here is what i got:
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/new_sand-variation.jpg)
+
+here are the shader nodes it created:
+![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/sand-shader-nodes.jpg)
+
+After that I just told it to make the the sand material effect more pronuced and develop the stone materials the way it thinks it should:
+![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/latest_sand-variation.jpg)
+![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/rock_new_material.jpg)
