@@ -42,15 +42,7 @@ Edit > Preferences > Add-ons > Install... → pick ai_scene_agents.py → enable
 In the addon's preferences, paste your Anthropic API key.
 
 
-Known limitations
-
-The UI freezes while an agent is running (synchronous API call).
-No mesh modeling agent — a primitive-based "Builder" agent was tried early on and cut, results were weak for the effort.
-Materials don't do bump/normal maps yet, only color + metallic + roughness.
-Needs an internet connection and a valid API key with credits.
-
-
-
+Test
 
 Here is a small test scene I made, it's just some rocks in a 'desert' and I asked the material agent to assign 3 different rock materials randomly among the rocks in the scene:
 
@@ -67,3 +59,11 @@ here are the shader nodes it created:
 After that I just told it to make the the sand material effect more pronuced and develop the stone materials the way it thinks it should:
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/latest_sand-variation.jpg)
 ![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/rock_new_material.jpg)
+
+
+Known limitations
+
+The UI freezes while an agent is running (synchronous API call).
+No mesh modeling agent — a primitive-based "Builder" agent was tried early on and cut, results were weak for the effort.
+Materials don't do bump/normal maps yet, only color + metallic + roughness.
+Needs an internet connection and a valid API key with credits.
