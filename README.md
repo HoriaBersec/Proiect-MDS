@@ -51,3 +51,7 @@ Needs an internet connection and a valid API key with credits.
 
 
 Here is a small test scene:
+
+![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/basic_scene_setup.jpg)
+
+![image alt](https://github.com/HoriaBersec/Proiect-MDS/blob/644fc818ea9ac67d54ed816848e6d7088127c6b5/screenshots/new_sand-variation.jpg)
