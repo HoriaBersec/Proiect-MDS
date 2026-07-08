@@ -1,6 +1,6 @@
 bl_info = {
     "name": "AI Scene Agents",
-    "author": "Echipa MDS",
+    "author": "Horia",
     "version": (1, 2, 0),
     "blender": (3, 6, 0),
     "location": "View3D > Sidebar (N) > AI Agents",
